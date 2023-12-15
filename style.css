@@ -1,3 +1,41 @@
 body {
-
+  background-color: #54DEFD;
 }
+h1{
+  font-size:400%;
+  letter-spacing:1px;
+  color:#FFFBFA;
+  text-decoration: underline;
+  text-decoration-color: blue;
+  font-family: "Arial";
+}
+p{
+  font-size:278%;
+}
+img{
+  width:900px
+  float
+}
+iframe{
+  
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding:10px;
+  color:#12687D;
+  text-decoration:none;
+  font-family: "Lucida Handwriting";
+  border: solid;
+}
+li a:hover{
+  background-color:#00BD9D;
+  color:#8BD7D2;
+}
+
