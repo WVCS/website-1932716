@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <link re1 = "https://static.wikia.nocookie.net/unofficial-alphabet-lore/images/9/91/A%28Lowercase%29.png/revision/latest?cb=20221204162859">
+    <title> Adith's Cool Website </title>
+    </link>
+  </head> 
+  <body>
+    <ul>
+      <li><a href = ""> Home </a> <li>
+      <li><a href = ""> Interactives </a> <li>
+      <li><a href = ""> Games/Quizzes </a> <li>
+    </ul>
+    <center>
+    <h1> Interactives </h1>
+    <p> These are all of my interactive apps. There might  <br> be something that you could find useful in here! </p>
+      <br>
+    <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/E_VIFScmWAnFIciszpcX--LTBaS0GbbKpOPxT29xLkr/embed?nosource"></iframe>
+      <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/eMdDbwTNVESMT-5SyBcMXN-v6Htso3bh-xFSjt23opf/embed?nosource"></iframe>
+      <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/ZmMX6r9q5-0b53J8X1dg14hwTZsPNJJxMQbmn5lk1Zf/embed?nosource"></iframe>
+      <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/59HBfG_GuQRoh9PRItvSgsyr0vd0qBReVIQ9ifx0hOx/embed?nosource"></iframe>
+      <br>
+      <br>
+      <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/juB4mlbcFkuO4cdkDiAhea2qYQ19Fr_McfKKKSF8yrH/embed?nosource"></iframe>
+      <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/ouFK1cgYW4-RuFR5Ye80YIOJ3NPehaVzDAFgPf2lULH/embed?nosource"></iframe>
+    </center>
+  </body>
+<html>
