@@ -1,20 +1,22 @@
-body {
-  background-color: #54DEFD;
+body{
+  background-color: #52B2CF;
 }
 h1{
   font-size:400%;
   letter-spacing:1px;
-  color:#FFFBFA;
-  text-decoration: underline;
-  text-decoration-color: blue;
+  color:#C2FCF7;
+  text-decoration: overline;
+  text-decoration-color: #57737A;
   font-family: "Arial";
 }
 p{
-  font-size:278%;
+  font-size:270%;
+  font-family: "Brush Script MT";
+  color:#3C304B;
 }
 img{
-  width:900px
-  float
+  width:600px
+  
 }
 iframe{
   
@@ -31,11 +33,14 @@ li a{
   padding:10px;
   color:#12687D;
   text-decoration:none;
-  font-family: "Lucida Handwriting";
-  border: solid;
+  font-family: "Brush Script MT";
+  border: ridge;
 }
 li a:hover{
   background-color:#00BD9D;
   color:#8BD7D2;
 }
-
+p1{
+  font-size:300%;
+  text-align: center;
+}
